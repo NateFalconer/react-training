@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.bulmalogo {
+  padding-left: 10px;
+  float: left;
+}
+
+.homelink {
+  float: left;
+  padding-left: 20px;
+}
+
+.navbar-end {
+  float: right;
+  padding-right: 10px;
+}
